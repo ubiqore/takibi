@@ -1,0 +1,35 @@
+id,root,cs,code,label,version,spaces ,text|,|text,text|text,xx  | OR |  xx
+medication-doseUnit.ehr2edc,,,,EHR2EDC Medication dose Unit,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,428641000,CAPSULE,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,IU/kg,IU,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,L,L,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,415215001,PUFF,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,428673006,TABLET,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,g,g,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,258727004,mEq,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,mL,mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,mg,mg,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,mg/kg,mg/kg,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,ug,ug,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,413568008,APPLICATION,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,428177008,IMPLANT,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,419702001,PATCH,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,426148002,SACHET,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,419694003,SPRAY,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,415702006,Tbsp,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,[arb'U],U,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,415818006,VIAL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,drp,gtt,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,mg/m²,mg/m2,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://snomed.info/sct,415703001,tsp,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,uL,uL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,%,%,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,umol,umol,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,mCi,mCi,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,mmol,mmol,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,ng,ng,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,ug/m²,ug/m2,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,IU/kg,IU/kg,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,ug/kg,ug/kg,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,kIU,kIU,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-doseUnit.ehr2edc,,http://unitsofmeasure.org,MBq,MBq,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE

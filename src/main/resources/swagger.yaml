@@ -1,0 +1,25 @@
+openapi: 3.0.0
+info:
+  title: Takibi API
+  description: __HL7~FHIR__  metadata studio [R4](http://hl7.org/fhir) or [DSTU3](http://hl7.org/fhir/STU3/)
+  version: 0.0.1
+servers:
+- url: http://houblon.limics.fr/
+  description: Optional server description, e.g. Main (production) server
+- url: http://localhost:7676/
+  description: Optional server description, e.g. Internal staging server for testing
+paths:
+  /projects:
+    get:
+      summary: List of projects
+      description: a project
+      responses:
+        '200':    # status code
+          description: A JSON Array  of projects
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: string
+

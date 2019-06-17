@@ -1,0 +1,646 @@
+id,root,cs,code,label,version,regex verification si text| text,regex verification si text |text,regex verification si text |text,double spaces,start/end with spaces
+observation-codes.laboratory.ehr2edc,,,,EHR2EDC Laboratory Observation Codes,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,,,Glucose | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,2339-0,Glucose [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,2345-7,Glucose [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,14749-6,Glucose [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,15074-8,Glucose [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,39480-9,Glucose [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,41652-9,Glucose [Mass/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,35211-2,Glucose [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,74774-1,"Glucose [Mass/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:1,observation-codes.laboratory.ehr2edc,http://loinc.org,77135-2,"Glucose [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:2,observation-codes.laboratory.ehr2edc,,,Cholesterol | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:2,observation-codes.laboratory.ehr2edc,http://loinc.org,2093-3,Cholesterol [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:2,observation-codes.laboratory.ehr2edc,http://loinc.org,14647-2,Cholesterol [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:2,observation-codes.laboratory.ehr2edc,http://loinc.org,35200-5,Cholesterol [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:2,observation-codes.laboratory.ehr2edc,,,Lipase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:2,observation-codes.laboratory.ehr2edc,http://loinc.org,3040-3,Lipase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,,,Urea nitrogen | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,http://loinc.org,6299-2,Urea nitrogen [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,http://loinc.org,3094-0,Urea nitrogen [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,http://loinc.org,12962-7,Urea nitrogen [Mass/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,http://loinc.org,14937-7,Urea nitrogen [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,http://loinc.org,35234-4,Urea nitrogen [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:4,observation-codes.laboratory.ehr2edc,http://loinc.org,59570-2,Urea nitrogen [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,,,Bilirubin.total | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,35194-0,Bilirubin.total [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,1975-2,Bilirubin.total [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,14631-6,Bilirubin.total [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,42719-5,Bilirubin.total [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,54363-7,Bilirubin.total [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,59828-4,Bilirubin.total [Mass/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:5,observation-codes.laboratory.ehr2edc,http://loinc.org,77137-8,"Bilirubin.total [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,,,Albumin | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,1751-7,Albumin [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,54347-0,Albumin [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,61151-7,Albumin [Mass/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,61152-5,Albumin [Mass/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,62234-0,Albumin [Moles/volume] in Serum or Plasma by Bromocresol purple (BCP) dye binding method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,62235-7,Albumin [Moles/volume] in Serum or Plasma by Bromocresol green (BCG) dye binding method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,77148-5,"Albumin [Mass/volume] in Serum, Plasma or Blood by Bromocresol purple (BCP) dye binding method",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:6,observation-codes.laboratory.ehr2edc,http://loinc.org,76631-1,Albumin [Mass/volume] in Blood by Bromocresol purple (BCP) dye binding method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:7,observation-codes.laboratory.ehr2edc,,,Alkaline phosphatase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:7,observation-codes.laboratory.ehr2edc,http://loinc.org,1783-0,Alkaline phosphatase [Enzymatic activity/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:7,observation-codes.laboratory.ehr2edc,http://loinc.org,6768-6,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:7,observation-codes.laboratory.ehr2edc,http://loinc.org,77141-0,"Alkaline phosphatase [Enzymatic activity/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:8,observation-codes.laboratory.ehr2edc,,,Alanine aminotransferase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:8,observation-codes.laboratory.ehr2edc,http://loinc.org,1742-6,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:8,observation-codes.laboratory.ehr2edc,http://loinc.org,77144-4,"Alanine aminotransferase [Enzymatic activity/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:8,observation-codes.laboratory.ehr2edc,http://loinc.org,76625-3,Alanine aminotransferase [Enzymatic activity/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:9,observation-codes.laboratory.ehr2edc,,,Aspartate aminotransferase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:9,observation-codes.laboratory.ehr2edc,http://loinc.org,1920-8,Aspartate aminotransferase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:10,observation-codes.laboratory.ehr2edc,,,Bilirubin.conjugated | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:10,observation-codes.laboratory.ehr2edc,http://loinc.org,15152-2,Bilirubin.conjugated [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:10,observation-codes.laboratory.ehr2edc,http://loinc.org,29760-6,Bilirubin.conjugated [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,,,Calcium | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,http://loinc.org,1996-8,Calcium [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,http://loinc.org,2000-8,Calcium [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,http://loinc.org,35246-8,Calcium [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,http://loinc.org,17861-6,Calcium [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,http://loinc.org,42857-3,Calcium [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:11,observation-codes.laboratory.ehr2edc,http://loinc.org,49765-1,Calcium [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:12,observation-codes.laboratory.ehr2edc,,,Creatine kinase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:12,observation-codes.laboratory.ehr2edc,http://loinc.org,2157-6,Creatine kinase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:12,observation-codes.laboratory.ehr2edc,http://loinc.org,50756-6,Creatine kinase [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:13,observation-codes.laboratory.ehr2edc,,,Chloride | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:13,observation-codes.laboratory.ehr2edc,http://loinc.org,2069-3,Chloride [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:13,observation-codes.laboratory.ehr2edc,http://loinc.org,2075-0,Chloride [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:13,observation-codes.laboratory.ehr2edc,http://loinc.org,41649-5,Chloride [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:13,observation-codes.laboratory.ehr2edc,http://loinc.org,77138-6,"Chloride [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,,,Creatinine | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,http://loinc.org,2160-0,Creatinine [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,http://loinc.org,14682-9,Creatinine [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,http://loinc.org,38483-4,Creatinine [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,http://loinc.org,35203-9,Creatinine [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,http://loinc.org,59826-8,Creatinine [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:14,observation-codes.laboratory.ehr2edc,http://loinc.org,77140-2,"Creatinine [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:15,observation-codes.laboratory.ehr2edc,,,C reactive protein | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:15,observation-codes.laboratory.ehr2edc,http://loinc.org,1988-5,C reactive protein [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:15,observation-codes.laboratory.ehr2edc,http://loinc.org,76485-2,C reactive protein [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:16,observation-codes.laboratory.ehr2edc,,,Sodium | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:16,observation-codes.laboratory.ehr2edc,http://loinc.org,2947-0,Sodium [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:16,observation-codes.laboratory.ehr2edc,http://loinc.org,2951-2,Sodium [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:16,observation-codes.laboratory.ehr2edc,http://loinc.org,39791-9,Sodium [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:16,observation-codes.laboratory.ehr2edc,http://loinc.org,42570-2,Sodium [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:16,observation-codes.laboratory.ehr2edc,http://loinc.org,77139-4,"Sodium [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,,,Thyrotropin | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,3015-5,Thyrotropin [Units/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,3016-3,Thyrotropin [Units/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,14297-6,Thyrotropin [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,27975-2,Thyrotropin [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,55462-6,Thyrotropin in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,11580-8,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.005 mIU/L,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:17,observation-codes.laboratory.ehr2edc,http://loinc.org,11579-0,Thyrotropin [Units/volume] in Serum or Plasma by Detection limit <= 0.05 mIU/L,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:18,observation-codes.laboratory.ehr2edc,,,Urate | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:18,observation-codes.laboratory.ehr2edc,http://loinc.org,3084-1,Urate [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:18,observation-codes.laboratory.ehr2edc,http://loinc.org,14933-6,Urate [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:18,observation-codes.laboratory.ehr2edc,http://loinc.org,35232-8,Urate [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,,,Urea | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,3091-6,Urea [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,20977-5,Urea [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,22664-7,Urea [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,42571-0,Urea [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,72903-8,Urea [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,72926-9,Urea [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:19,observation-codes.laboratory.ehr2edc,http://loinc.org,77136-0,"Urea [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:20,observation-codes.laboratory.ehr2edc,,,Magnesium | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:20,observation-codes.laboratory.ehr2edc,http://loinc.org,2593-2,Magnesium [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:20,observation-codes.laboratory.ehr2edc,http://loinc.org,2601-3,Magnesium [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:20,observation-codes.laboratory.ehr2edc,http://loinc.org,19123-9,Magnesium [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:20,observation-codes.laboratory.ehr2edc,http://loinc.org,21377-7,Magnesium [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:20,observation-codes.laboratory.ehr2edc,http://loinc.org,35249-2,Magnesium [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:21,observation-codes.laboratory.ehr2edc,,,Gamma glutamyl transferase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:21,observation-codes.laboratory.ehr2edc,http://loinc.org,2324-2,Gamma glutamyl transferase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,,,Potassium | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,6298-4,Potassium [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,2823-3,Potassium [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,22760-3,Potassium [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,39789-3,Potassium [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,42569-4,Potassium [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,77142-8,"Potassium [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:22,observation-codes.laboratory.ehr2edc,http://loinc.org,75940-7,Potassium [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:23,observation-codes.laboratory.ehr2edc,,,Lactate dehydrogenase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:23,observation-codes.laboratory.ehr2edc,http://loinc.org,2532-0,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:23,observation-codes.laboratory.ehr2edc,http://loinc.org,14804-9,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Lactate to pyruvate reaction,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:23,observation-codes.laboratory.ehr2edc,http://loinc.org,14805-6,Lactate dehydrogenase [Enzymatic activity/volume] in Serum or Plasma by Pyruvate to lactate reaction,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:24,observation-codes.laboratory.ehr2edc,,,Phosphate | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:24,observation-codes.laboratory.ehr2edc,http://loinc.org,2774-8,Phosphate [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:24,observation-codes.laboratory.ehr2edc,http://loinc.org,14879-1,Phosphate [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:24,observation-codes.laboratory.ehr2edc,http://loinc.org,24519-1,Phosphate [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:24,observation-codes.laboratory.ehr2edc,http://loinc.org,2777-1,Phosphate [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:24,observation-codes.laboratory.ehr2edc,http://loinc.org,35221-1,Phosphate [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:25,observation-codes.laboratory.ehr2edc,,,Protein | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:25,observation-codes.laboratory.ehr2edc,http://loinc.org,2885-2,Protein [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:26,observation-codes.laboratory.ehr2edc,,,Bicarbonate | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:26,observation-codes.laboratory.ehr2edc,http://loinc.org,1959-6,Bicarbonate [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:26,observation-codes.laboratory.ehr2edc,http://loinc.org,14627-4,Bicarbonate [Moles/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:27,observation-codes.laboratory.ehr2edc,,,Troponin I.cardiac | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:27,observation-codes.laboratory.ehr2edc,http://loinc.org,10839-9,Troponin I.cardiac [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:27,observation-codes.laboratory.ehr2edc,http://loinc.org,16255-2,Troponin I.cardiac [Units/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:27,observation-codes.laboratory.ehr2edc,http://loinc.org,42757-5,Troponin I.cardiac [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:27,observation-codes.laboratory.ehr2edc,http://loinc.org,49563-0,Troponin I.cardiac [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:28,observation-codes.laboratory.ehr2edc,,,Follitropin | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:28,observation-codes.laboratory.ehr2edc,http://loinc.org,2286-3,Follitropin [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:28,observation-codes.laboratory.ehr2edc,http://loinc.org,15067-2,Follitropin [Units/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:28,observation-codes.laboratory.ehr2edc,http://loinc.org,27942-2,Follitropin [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:28,observation-codes.laboratory.ehr2edc,http://loinc.org,20433-9,Follitropin [Units/volume] in Serum or Plasma by 2nd IRP,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:28,observation-codes.laboratory.ehr2edc,http://loinc.org,83098-4,Follitropin [Units/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,,,Thyroxine (T4) free | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,3024-7,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,14920-3,Thyroxine (T4) free [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,35228-6,Thyroxine (T4) free [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,6892-4,Thyroxine (T4) free [Mass/volume] in Serum or Plasma by Dialysis,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,70217-5,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Dialysis,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,83122-2,Thyroxine (T4) free [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:29,observation-codes.laboratory.ehr2edc,http://loinc.org,83121-4,Thyroxine (T4) free [Moles/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,,,Triiodothyronine (T3) Free | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,http://loinc.org,3051-0,Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,http://loinc.org,14928-6,Triiodothyronine (T3) Free [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,http://loinc.org,35230-2,Triiodothyronine (T3) Free [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,http://loinc.org,29239-1,Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma by Dialysis,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,http://loinc.org,83127-1,Triiodothyronine (T3) Free [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:30,observation-codes.laboratory.ehr2edc,http://loinc.org,83126-3,Triiodothyronine (T3) Free [Moles/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:31,observation-codes.laboratory.ehr2edc,,,Carcinoembryonic Ag | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:31,observation-codes.laboratory.ehr2edc,http://loinc.org,2039-6,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:31,observation-codes.laboratory.ehr2edc,http://loinc.org,19166-8,Carcinoembryonic Ag [Units/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:31,observation-codes.laboratory.ehr2edc,http://loinc.org,19167-6,Carcinoembryonic Ag [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:31,observation-codes.laboratory.ehr2edc,http://loinc.org,83085-1,Carcinoembryonic Ag [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:32,observation-codes.laboratory.ehr2edc,,,Amylase.pancreatic | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:32,observation-codes.laboratory.ehr2edc,http://loinc.org,1805-1,Amylase.pancreatic [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,,,Glucose | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,1557-8,Fasting glucose [Mass/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,1558-6,Fasting glucose [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,14771-0,Fasting glucose [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,40193-5,Glucose [Moles/volume] in Serum or Plasma --pre-meal,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,53049-3,Glucose [Mass/volume] in Serum or Plasma --pre-meal,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,35184-1,Fasting glucose [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,77145-1,"Fasting glucose [Moles/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:33,observation-codes.laboratory.ehr2edc,http://loinc.org,76629-5,Fasting glucose [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:34,observation-codes.laboratory.ehr2edc,,,Triglyceride | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:34,observation-codes.laboratory.ehr2edc,http://loinc.org,2571-8,Triglyceride [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:34,observation-codes.laboratory.ehr2edc,http://loinc.org,3043-7,Triglyceride [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:34,observation-codes.laboratory.ehr2edc,http://loinc.org,14927-8,Triglyceride [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:34,observation-codes.laboratory.ehr2edc,http://loinc.org,35217-9,Triglyceride [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:34,observation-codes.laboratory.ehr2edc,http://loinc.org,70218-3,Triglyceride [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,,,Tricyclic antidepressants | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,http://loinc.org,11004-9,Tricyclic antidepressants [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,http://loinc.org,19312-8,Tricyclic antidepressants [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,http://loinc.org,19315-1,Tricyclic antidepressants [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,http://loinc.org,6799-1,Tricyclic antidepressants [Presence] in Urine by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,http://loinc.org,78889-3,Tricyclic antidepressants [Presence] in Urine by Screen method >300 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:35,observation-codes.laboratory.ehr2edc,http://loinc.org,80149-8,Tricyclic antidepressants [Presence] in Urine by Screen method >1000 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:36,observation-codes.laboratory.ehr2edc,,,Alpha-1-acid glycoprotein | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:36,observation-codes.laboratory.ehr2edc,http://loinc.org,2685-6,Alpha-1-acid glycoprotein [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:36,observation-codes.laboratory.ehr2edc,http://loinc.org,33781-6,Alpha-1-acid glycoprotein [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:37,observation-codes.laboratory.ehr2edc,,,Cholesterol in HDL | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:37,observation-codes.laboratory.ehr2edc,http://loinc.org,2085-9,Cholesterol in HDL [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:37,observation-codes.laboratory.ehr2edc,http://loinc.org,14646-4,Cholesterol in HDL [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:37,observation-codes.laboratory.ehr2edc,http://loinc.org,35197-3,Cholesterol in HDL [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:38,observation-codes.laboratory.ehr2edc,,,HIV 1+2 Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:38,observation-codes.laboratory.ehr2edc,http://loinc.org,48345-3,HIV 1+O+2 Ab [Presence] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:38,observation-codes.laboratory.ehr2edc,http://loinc.org,7918-6,HIV 1+2 Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:38,observation-codes.laboratory.ehr2edc,http://loinc.org,31201-7,HIV 1+2 Ab [Presence] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:38,observation-codes.laboratory.ehr2edc,http://loinc.org,44873-8,HIV 1+2 Ab [Presence] in Serum by Immunoblot,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:38,observation-codes.laboratory.ehr2edc,http://loinc.org,80387-4,"HIV 1+2 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,,,Hemoglobin A1c/Hemoglobin.total | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,4548-4,Hemoglobin A1c/Hemoglobin.total in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,71875-9,Hemoglobin A1c/Hemoglobin.total [Pure mass fraction] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,4549-2,Hemoglobin A1c/Hemoglobin.total in Blood by Electrophoresis,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,17855-8,Hemoglobin A1c/Hemoglobin.total in Blood by calculation,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,17856-6,Hemoglobin A1c/Hemoglobin.total in Blood by HPLC,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,59261-8,Hemoglobin A1c/Hemoglobin.total in Blood by IFCC protocol,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:39,observation-codes.laboratory.ehr2edc,http://loinc.org,62388-4,Hemoglobin A1c/Hemoglobin.total in Blood by JDS/JSCC protocol,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:40,observation-codes.laboratory.ehr2edc,,,Hepatitis E virus Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:40,observation-codes.laboratory.ehr2edc,http://loinc.org,13294-4,Hepatitis E virus Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:40,observation-codes.laboratory.ehr2edc,http://loinc.org,58936-6,Hepatitis E virus Ab [Presence] in Serum by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:42,observation-codes.laboratory.ehr2edc,,,Prostate specific Ag | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:42,observation-codes.laboratory.ehr2edc,http://loinc.org,2857-1,Prostate specific Ag [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:42,observation-codes.laboratory.ehr2edc,http://loinc.org,19195-7,Prostate specific Ag [Units/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:42,observation-codes.laboratory.ehr2edc,http://loinc.org,19197-3,Prostate specific Ag [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:42,observation-codes.laboratory.ehr2edc,http://loinc.org,35741-8,Prostate specific Ag [Mass/volume] in Serum or Plasma by Detection limit <= 0.01 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:42,observation-codes.laboratory.ehr2edc,http://loinc.org,83112-3,Prostate specific Ag [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:43,observation-codes.laboratory.ehr2edc,,,Erythrocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:43,observation-codes.laboratory.ehr2edc,http://loinc.org,789-8,Erythrocytes [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:43,observation-codes.laboratory.ehr2edc,http://loinc.org,790-6,Erythrocytes [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:43,observation-codes.laboratory.ehr2edc,http://loinc.org,26453-1,Erythrocytes [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:44,observation-codes.laboratory.ehr2edc,,,Reticulocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:44,observation-codes.laboratory.ehr2edc,http://loinc.org,14196-0,Reticulocytes [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:44,observation-codes.laboratory.ehr2edc,http://loinc.org,40665-2,Reticulocytes [#/volume] in Blood by Manual,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:44,observation-codes.laboratory.ehr2edc,http://loinc.org,42758-3,Reticulocytes [#/volume] in Blood by calculation,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:44,observation-codes.laboratory.ehr2edc,http://loinc.org,60474-4,Reticulocytes [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:45,observation-codes.laboratory.ehr2edc,,,Leukocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:45,observation-codes.laboratory.ehr2edc,http://loinc.org,26464-8,Leukocytes [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:45,observation-codes.laboratory.ehr2edc,http://loinc.org,6690-2,Leukocytes [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:45,observation-codes.laboratory.ehr2edc,http://loinc.org,804-5,Leukocytes [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:45,observation-codes.laboratory.ehr2edc,http://loinc.org,49498-9,Leukocytes [#/volume] in Blood by Estimate,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:46,observation-codes.laboratory.ehr2edc,,,Lymphocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:46,observation-codes.laboratory.ehr2edc,http://loinc.org,731-0,Lymphocytes [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:46,observation-codes.laboratory.ehr2edc,http://loinc.org,732-8,Lymphocytes [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:46,observation-codes.laboratory.ehr2edc,http://loinc.org,26474-7,Lymphocytes [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:46,observation-codes.laboratory.ehr2edc,http://loinc.org,30364-4,Lymphocytes [#/volume] in Blood by Flow cytometry (FC),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:47,observation-codes.laboratory.ehr2edc,,,Platelets | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:47,observation-codes.laboratory.ehr2edc,http://loinc.org,777-3,Platelets [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:47,observation-codes.laboratory.ehr2edc,http://loinc.org,778-1,Platelets [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:47,observation-codes.laboratory.ehr2edc,http://loinc.org,26515-7,Platelets [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:47,observation-codes.laboratory.ehr2edc,http://loinc.org,49497-1,Platelets [#/volume] in Blood by Estimate,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:47,observation-codes.laboratory.ehr2edc,http://loinc.org,79427-1,Platelets [#/area] in Blood by Microscopy high power field,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:48,observation-codes.laboratory.ehr2edc,,,Prothrombin time | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:48,observation-codes.laboratory.ehr2edc,http://loinc.org,5964-2,Prothrombin time (PT) in Blood by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:48,observation-codes.laboratory.ehr2edc,http://loinc.org,5902-2,Prothrombin time (PT),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:49,observation-codes.laboratory.ehr2edc,,,Neutrophils | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:49,observation-codes.laboratory.ehr2edc,http://loinc.org,751-8,Neutrophils [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:49,observation-codes.laboratory.ehr2edc,http://loinc.org,753-4,Neutrophils [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:49,observation-codes.laboratory.ehr2edc,http://loinc.org,26499-4,Neutrophils [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:50,observation-codes.laboratory.ehr2edc,,,Basophils | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:50,observation-codes.laboratory.ehr2edc,http://loinc.org,704-7,Basophils [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:50,observation-codes.laboratory.ehr2edc,http://loinc.org,705-4,Basophils [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:50,observation-codes.laboratory.ehr2edc,http://loinc.org,26444-0,Basophils [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:51,observation-codes.laboratory.ehr2edc,,,Basophils/100 leukocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:51,observation-codes.laboratory.ehr2edc,http://loinc.org,706-2,Basophils/100 leukocytes in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:51,observation-codes.laboratory.ehr2edc,http://loinc.org,707-0,Basophils/100 leukocytes in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:51,observation-codes.laboratory.ehr2edc,http://loinc.org,30180-4,Basophils/100 leukocytes in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:52,observation-codes.laboratory.ehr2edc,,,Bilirubin.indirect | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:52,observation-codes.laboratory.ehr2edc,http://loinc.org,35192-4,Bilirubin.indirect [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:52,observation-codes.laboratory.ehr2edc,http://loinc.org,1971-1,Bilirubin.indirect [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:52,observation-codes.laboratory.ehr2edc,http://loinc.org,14630-8,Bilirubin.indirect [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:53,observation-codes.laboratory.ehr2edc,,,Eosinophils | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:53,observation-codes.laboratory.ehr2edc,http://loinc.org,711-2,Eosinophils [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:53,observation-codes.laboratory.ehr2edc,http://loinc.org,712-0,Eosinophils [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:53,observation-codes.laboratory.ehr2edc,http://loinc.org,26449-9,Eosinophils [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:54,observation-codes.laboratory.ehr2edc,,,Eosinophils/100 leukocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:54,observation-codes.laboratory.ehr2edc,http://loinc.org,713-8,Eosinophils/100 leukocytes in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:54,observation-codes.laboratory.ehr2edc,http://loinc.org,714-6,Eosinophils/100 leukocytes in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:54,observation-codes.laboratory.ehr2edc,http://loinc.org,26450-7,Eosinophils/100 leukocytes in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:55,observation-codes.laboratory.ehr2edc,,,Fibrinogen | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:55,observation-codes.laboratory.ehr2edc,http://loinc.org,3255-7,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:55,observation-codes.laboratory.ehr2edc,http://loinc.org,30902-1,Fibrinogen [Mass/volume] in Platelet poor plasma by Heat denaturation,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:55,observation-codes.laboratory.ehr2edc,http://loinc.org,48664-7,Fibrinogen [Mass/volume] in Platelet poor plasma by Coagulation.derived,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:55,observation-codes.laboratory.ehr2edc,http://loinc.org,42568-6,Fibrinogen [Mass or Moles/volume] in Platelet poor plasma by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:55,observation-codes.laboratory.ehr2edc,http://loinc.org,55452-7,Fibrinogen in Platelet poor plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,,,Hematocrit | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,4544-3,Hematocrit [Volume Fraction] of Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,4545-0,Hematocrit [Volume Fraction] of Blood by Centrifugation,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,20570-8,Hematocrit [Volume Fraction] of Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,31100-1,Hematocrit [Volume Fraction] of Blood by Impedance,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,32354-3,Hematocrit [Volume Fraction] of Arterial blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,42908-4,Hematocrit [Volume Fraction] of Capillary blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,41654-5,Hematocrit [Volume Fraction] of Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,41655-2,Hematocrit [Volume Fraction] of Mixed venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,48703-3,Hematocrit [Volume Fraction] of Blood by Estimated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,71829-6,Hematocrit [Pure volume fraction] of Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,71830-4,Hematocrit [Pure volume fraction] of Mixed venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,71831-2,Hematocrit [Pure volume fraction] of Capillary blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,71832-0,Hematocrit [Pure volume fraction] of Arterial blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:56,observation-codes.laboratory.ehr2edc,http://loinc.org,71833-8,Hematocrit [Pure volume fraction] of Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:57,observation-codes.laboratory.ehr2edc,,,MCH | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:57,observation-codes.laboratory.ehr2edc,http://loinc.org,785-6,MCH [Entitic mass] by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:57,observation-codes.laboratory.ehr2edc,http://loinc.org,28539-5,MCH [Entitic mass],2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:57,observation-codes.laboratory.ehr2edc,http://loinc.org,59468-9,MCH [Entitic substance],2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:58,observation-codes.laboratory.ehr2edc,,,MCHC | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:58,observation-codes.laboratory.ehr2edc,http://loinc.org,786-4,MCHC [Mass/volume] by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:58,observation-codes.laboratory.ehr2edc,http://loinc.org,28540-3,MCHC [Mass/volume],2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:58,observation-codes.laboratory.ehr2edc,http://loinc.org,59467-1,MCHC [Moles/volume],2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:59,observation-codes.laboratory.ehr2edc,,,MCV | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:59,observation-codes.laboratory.ehr2edc,http://loinc.org,787-2,MCV [Entitic volume] by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:59,observation-codes.laboratory.ehr2edc,http://loinc.org,30428-7,MCV [Entitic volume],2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:60,observation-codes.laboratory.ehr2edc,,,Lymphocytes/100 leukocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:60,observation-codes.laboratory.ehr2edc,http://loinc.org,736-9,Lymphocytes/100 leukocytes in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:60,observation-codes.laboratory.ehr2edc,http://loinc.org,737-7,Lymphocytes/100 leukocytes in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:60,observation-codes.laboratory.ehr2edc,http://loinc.org,26478-8,Lymphocytes/100 leukocytes in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:60,observation-codes.laboratory.ehr2edc,http://loinc.org,30365-1,Lymphocytes/100 leukocytes in Blood by Flow cytometry (FC),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:61,observation-codes.laboratory.ehr2edc,,,Monocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:61,observation-codes.laboratory.ehr2edc,http://loinc.org,742-7,Monocytes [#/volume] in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:61,observation-codes.laboratory.ehr2edc,http://loinc.org,743-5,Monocytes [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:61,observation-codes.laboratory.ehr2edc,http://loinc.org,26484-6,Monocytes [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:62,observation-codes.laboratory.ehr2edc,,,Monocytes/100 leukocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:62,observation-codes.laboratory.ehr2edc,http://loinc.org,5905-5,Monocytes/100 leukocytes in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:62,observation-codes.laboratory.ehr2edc,http://loinc.org,744-3,Monocytes/100 leukocytes in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:62,observation-codes.laboratory.ehr2edc,http://loinc.org,26485-3,Monocytes/100 leukocytes in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:63,observation-codes.laboratory.ehr2edc,,,Neutrophils/100 leukocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:63,observation-codes.laboratory.ehr2edc,http://loinc.org,770-8,Neutrophils/100 leukocytes in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:63,observation-codes.laboratory.ehr2edc,http://loinc.org,23761-0,Neutrophils/100 leukocytes in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:63,observation-codes.laboratory.ehr2edc,http://loinc.org,26511-6,Neutrophils/100 leukocytes in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:64,observation-codes.laboratory.ehr2edc,,,Reticulocytes/100 erythrocytes | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:64,observation-codes.laboratory.ehr2edc,http://loinc.org,4679-7,Reticulocytes/100 erythrocytes in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:64,observation-codes.laboratory.ehr2edc,http://loinc.org,17849-1,Reticulocytes/100 erythrocytes in Blood by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:64,observation-codes.laboratory.ehr2edc,http://loinc.org,31112-6,Reticulocytes/100 erythrocytes in Blood by Manual,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,,,Hemoglobin | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,http://loinc.org,718-7,Hemoglobin [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,http://loinc.org,30313-1,Hemoglobin [Mass/volume] in Arterial blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,http://loinc.org,30350-3,Hemoglobin [Mass/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,http://loinc.org,30352-9,Hemoglobin [Mass/volume] in Capillary blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,http://loinc.org,59260-0,Hemoglobin [Moles/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:65,observation-codes.laboratory.ehr2edc,http://loinc.org,75928-2,Hemoglobin [Moles/volume] in Arterial blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:66,observation-codes.laboratory.ehr2edc,,,Hemoglobin A1c | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:66,observation-codes.laboratory.ehr2edc,http://loinc.org,41995-2,Hemoglobin A1c [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:66,observation-codes.laboratory.ehr2edc,http://loinc.org,55454-3,Hemoglobin A1c in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,,,Hepatitis B virus surface Ag | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,http://loinc.org,5195-3,Hepatitis B virus surface Ag [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,http://loinc.org,5197-9,Hepatitis B virus surface Ag [Presence] in Serum by Radioimmunoassay (RIA),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,http://loinc.org,5196-1,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,http://loinc.org,65633-0,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,http://loinc.org,7905-3,Hepatitis B virus surface Ag [Presence] in Serum or Plasma by Neutralization test,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:67,observation-codes.laboratory.ehr2edc,http://loinc.org,75410-1,"Hepatitis B virus surface Ag [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:68,observation-codes.laboratory.ehr2edc,,,Blasts | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:68,observation-codes.laboratory.ehr2edc,http://loinc.org,708-8,Blasts [#/volume] in Blood by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:68,observation-codes.laboratory.ehr2edc,http://loinc.org,30376-8,Blasts [#/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,,,Amphetamines | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,3349-8,Amphetamines [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,16369-1,Amphetamines [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,8151-3,Amphetamines [Presence] in Urine by SAMHSA confirm method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,14309-9,Amphetamines [Presence] in Urine by Confirm method >200 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,19261-7,Amphetamines [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,8152-1,Amphetamines [Presence] in Urine by SAMHSA screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,43983-6,Amphetamines [Presence] in Urine by Screen method >500 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:69,observation-codes.laboratory.ehr2edc,http://loinc.org,14308-1,Amphetamines [Presence] in Urine by Screen method >1000 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:70,observation-codes.laboratory.ehr2edc,,,Barbiturates | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:70,observation-codes.laboratory.ehr2edc,http://loinc.org,16429-3,Barbiturates [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:70,observation-codes.laboratory.ehr2edc,http://loinc.org,19270-8,Barbiturates [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:70,observation-codes.laboratory.ehr2edc,http://loinc.org,3377-9,Barbiturates [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:70,observation-codes.laboratory.ehr2edc,http://loinc.org,70139-1,Barbiturates [Presence] in Urine by Screen method >300 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:70,observation-codes.laboratory.ehr2edc,http://loinc.org,70155-7,Barbiturates [Presence] in Urine by Screen method >200 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:71,observation-codes.laboratory.ehr2edc,,,Cannabinoids | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:71,observation-codes.laboratory.ehr2edc,http://loinc.org,18282-4,Cannabinoids [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:71,observation-codes.laboratory.ehr2edc,http://loinc.org,19289-8,Cannabinoids [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:71,observation-codes.laboratory.ehr2edc,http://loinc.org,3427-2,Cannabinoids [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:71,observation-codes.laboratory.ehr2edc,http://loinc.org,70144-1,Cannabinoids [Presence] in Urine by Screen method >20 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:71,observation-codes.laboratory.ehr2edc,http://loinc.org,70145-8,Cannabinoids [Presence] in Urine by Screen method >50 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:72,observation-codes.laboratory.ehr2edc,,,Cocaine | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:72,observation-codes.laboratory.ehr2edc,http://loinc.org,19359-9,Cocaine [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:72,observation-codes.laboratory.ehr2edc,http://loinc.org,19360-7,Cocaine [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:72,observation-codes.laboratory.ehr2edc,http://loinc.org,3397-7,Cocaine [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:73,observation-codes.laboratory.ehr2edc,,,Benzodiazepines | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:73,observation-codes.laboratory.ehr2edc,http://loinc.org,14316-4,Benzodiazepines [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:73,observation-codes.laboratory.ehr2edc,http://loinc.org,16195-0,Benzodiazepines [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:73,observation-codes.laboratory.ehr2edc,http://loinc.org,3390-2,Benzodiazepines [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:73,observation-codes.laboratory.ehr2edc,http://loinc.org,70141-7,Benzodiazepines [Presence] in Urine by Screen method >200 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:73,observation-codes.laboratory.ehr2edc,http://loinc.org,70142-5,Benzodiazepines [Presence] in Urine by Screen method >300 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,,,Phencyclidine | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,14310-7,Phencyclidine [Presence] in Urine by Screen method >25 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,14311-5,Phencyclidine [Presence] in Urine by Confirm method >20 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,18392-1,Phencyclidine [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,19659-2,Phencyclidine [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,3936-2,Phencyclidine [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,8237-0,Phencyclidine [Presence] in Urine by SAMHSA confirm method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:74,observation-codes.laboratory.ehr2edc,http://loinc.org,8238-8,Phencyclidine [Presence] in Urine by SAMHSA screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:75,observation-codes.laboratory.ehr2edc,,,Hepatitis B virus surface Ab | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:75,observation-codes.laboratory.ehr2edc,http://loinc.org,5193-8,Hepatitis B virus surface Ab [Units/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:75,observation-codes.laboratory.ehr2edc,http://loinc.org,5194-6,Hepatitis B virus surface Ab [Units/volume] in Serum by Radioimmunoassay (RIA),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:75,observation-codes.laboratory.ehr2edc,http://loinc.org,16935-9,Hepatitis B virus surface Ab [Units/volume] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:75,observation-codes.laboratory.ehr2edc,http://loinc.org,32019-2,Hepatitis B virus surface Ab [Titer] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,,,HIV 1 Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,14092-1,HIV 1 Ab [Presence] in Serum by Immunofluorescence,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,7917-8,HIV 1 Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,29893-5,HIV 1 Ab [Presence] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,5221-7,HIV 1 Ab [Presence] in Serum or Plasma by Immunoblot,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,68961-2,"HIV 1 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,85686-4,"HIV 1 Ab [Presence] in Serum, Plasma or Blood by Immunofluorescence",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:76,observation-codes.laboratory.ehr2edc,http://loinc.org,86233-4,"HIV 1 Ab [Presence] in Serum, Plasma or Blood by Immunoblot",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:77,observation-codes.laboratory.ehr2edc,,,HIV 2 Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:77,observation-codes.laboratory.ehr2edc,http://loinc.org,5225-8,HIV 2 Ab [Presence] in Serum by Immunoblot,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:77,observation-codes.laboratory.ehr2edc,http://loinc.org,7919-4,HIV 2 Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:77,observation-codes.laboratory.ehr2edc,http://loinc.org,30361-0,HIV 2 Ab [Presence] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:77,observation-codes.laboratory.ehr2edc,http://loinc.org,81641-3,"HIV 2 Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:78,observation-codes.laboratory.ehr2edc,,,C peptide | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:78,observation-codes.laboratory.ehr2edc,http://loinc.org,1986-9,C peptide [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:78,observation-codes.laboratory.ehr2edc,http://loinc.org,14633-2,C peptide [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:78,observation-codes.laboratory.ehr2edc,http://loinc.org,35195-7,C peptide [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:79,observation-codes.laboratory.ehr2edc,,,Triiodothyronine (T3) | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:79,observation-codes.laboratory.ehr2edc,http://loinc.org,3053-6,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:79,observation-codes.laboratory.ehr2edc,http://loinc.org,14930-2,Triiodothyronine (T3) [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:79,observation-codes.laboratory.ehr2edc,http://loinc.org,35231-0,Triiodothyronine (T3) [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:79,observation-codes.laboratory.ehr2edc,http://loinc.org,83125-5,Triiodothyronine (T3) [Moles/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:79,observation-codes.laboratory.ehr2edc,http://loinc.org,83124-8,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:80,observation-codes.laboratory.ehr2edc,,,Troponin T.cardiac | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:80,observation-codes.laboratory.ehr2edc,http://loinc.org,6597-9,Troponin T.cardiac [Mass/volume] in Venous blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:80,observation-codes.laboratory.ehr2edc,http://loinc.org,6598-7,Troponin T.cardiac [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:80,observation-codes.laboratory.ehr2edc,http://loinc.org,48425-3,Troponin T.cardiac [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:80,observation-codes.laboratory.ehr2edc,http://loinc.org,67151-1,Troponin T.cardiac [Mass/volume] in Serum or Plasma by Detection limit <= 5 ng/L,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,,,Testosterone | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,2986-8,Testosterone [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,14913-8,Testosterone [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,49041-7,Testosterone [Mass/volume] in Serum or Plasma by Detection limit <= 1.0 ng/dL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,35224-5,Testosterone [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,70239-9,Testosterone [Moles/volume] in Serum or Plasma by Detection limit <= 3.47 pmol/L,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,83116-4,Testosterone [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:81,observation-codes.laboratory.ehr2edc,http://loinc.org,83115-6,Testosterone [Moles/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,,,Thyroxine (T4) | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,http://loinc.org,3025-4,Thyroxine (T4) [Mass/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,http://loinc.org,3026-2,Thyroxine (T4) [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,http://loinc.org,14921-1,Thyroxine (T4) [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,http://loinc.org,35226-0,Thyroxine (T4) [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,http://loinc.org,83120-6,Thyroxine (T4) [Moles/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:82,observation-codes.laboratory.ehr2edc,http://loinc.org,83119-8,Thyroxine (T4) [Mass/volume] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,,,Opiates | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,18390-5,Opiates [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,19295-5,Opiates [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,21431-2,Opiates [Presence] in Urine by Screen method >2000 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,3879-4,Opiates [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,70151-6,Opiates [Presence] in Urine by Screen method >300 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,8221-4,Opiates [Presence] in Urine by SAMHSA confirm method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:83,observation-codes.laboratory.ehr2edc,http://loinc.org,8222-2,Opiates [Presence] in Urine by SAMHSA screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:84,observation-codes.laboratory.ehr2edc,,,Osmolality | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:84,observation-codes.laboratory.ehr2edc,http://loinc.org,2692-2,Osmolality of Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:84,observation-codes.laboratory.ehr2edc,http://loinc.org,18182-6,Osmolality of Serum or Plasma by calculation,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:85,observation-codes.laboratory.ehr2edc,,,Methadone | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:85,observation-codes.laboratory.ehr2edc,http://loinc.org,16199-2,Methadone [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:85,observation-codes.laboratory.ehr2edc,http://loinc.org,19550-3,Methadone [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:85,observation-codes.laboratory.ehr2edc,http://loinc.org,3773-9,Methadone [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:85,observation-codes.laboratory.ehr2edc,http://loinc.org,70148-2,Methadone [Presence] in Urine by Screen method >150 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:85,observation-codes.laboratory.ehr2edc,http://loinc.org,70149-0,Methadone [Presence] in Urine by Screen method >300 ng/mL,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:86,observation-codes.laboratory.ehr2edc,,,Oxycodone | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:86,observation-codes.laboratory.ehr2edc,http://loinc.org,10998-3,Oxycodone [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:86,observation-codes.laboratory.ehr2edc,http://loinc.org,19642-8,Oxycodone [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:86,observation-codes.laboratory.ehr2edc,http://loinc.org,19643-6,Oxycodone [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:87,observation-codes.laboratory.ehr2edc,,,Methamphetamine | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:87,observation-codes.laboratory.ehr2edc,http://loinc.org,19554-5,Methamphetamine [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:87,observation-codes.laboratory.ehr2edc,http://loinc.org,19555-2,Methamphetamine [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:87,observation-codes.laboratory.ehr2edc,http://loinc.org,21386-8,Methamphetamine [Presence] in Urine by SAMHSA confirm method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:87,observation-codes.laboratory.ehr2edc,http://loinc.org,3779-6,Methamphetamine [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:88,observation-codes.laboratory.ehr2edc,,,Buprenorphine | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:88,observation-codes.laboratory.ehr2edc,http://loinc.org,3414-0,Buprenorphine [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:88,observation-codes.laboratory.ehr2edc,http://loinc.org,16208-1,Buprenorphine [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:89,observation-codes.laboratory.ehr2edc,,,Methylenedioxymethamphetamine | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:89,observation-codes.laboratory.ehr2edc,http://loinc.org,14267-9,Methylenedioxymethamphetamine [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:89,observation-codes.laboratory.ehr2edc,http://loinc.org,19568-5,Methylenedioxymethamphetamine [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:89,observation-codes.laboratory.ehr2edc,http://loinc.org,19569-3,Methylenedioxymethamphetamine [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:90,observation-codes.laboratory.ehr2edc,,,Cotinine | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:90,observation-codes.laboratory.ehr2edc,http://loinc.org,12293-7,Cotinine [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:90,observation-codes.laboratory.ehr2edc,http://loinc.org,35642-8,Cotinine [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:90,observation-codes.laboratory.ehr2edc,http://loinc.org,59646-0,Cotinine [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:91,observation-codes.laboratory.ehr2edc,,,Hepatitis A virus Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:91,observation-codes.laboratory.ehr2edc,http://loinc.org,13951-9,Hepatitis A virus Ab [Presence] in Serum by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:91,observation-codes.laboratory.ehr2edc,http://loinc.org,20575-7,Hepatitis A virus Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:92,observation-codes.laboratory.ehr2edc,,,Hepatitis C virus Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:92,observation-codes.laboratory.ehr2edc,http://loinc.org,13955-0,Hepatitis C virus Ab [Presence] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:92,observation-codes.laboratory.ehr2edc,http://loinc.org,72376-7,"Hepatitis C virus Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:92,observation-codes.laboratory.ehr2edc,http://loinc.org,16128-1,Hepatitis C virus Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:92,observation-codes.laboratory.ehr2edc,http://loinc.org,5199-5,Hepatitis C virus Ab [Presence] in Serum by Immunoblot,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:93,observation-codes.laboratory.ehr2edc,,,Hepatitis B virus core Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:93,observation-codes.laboratory.ehr2edc,http://loinc.org,16933-4,Hepatitis B virus core Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:93,observation-codes.laboratory.ehr2edc,http://loinc.org,13952-7,Hepatitis B virus core Ab [Presence] in Serum or Plasma by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:93,observation-codes.laboratory.ehr2edc,http://loinc.org,75378-0,"Hepatitis B virus core Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:94,observation-codes.laboratory.ehr2edc,,,Hepatitis D virus Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:94,observation-codes.laboratory.ehr2edc,http://loinc.org,13248-0,Hepatitis D virus Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:94,observation-codes.laboratory.ehr2edc,http://loinc.org,40727-0,Hepatitis D virus Ab [Presence] in Serum by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:95,observation-codes.laboratory.ehr2edc,,,Glomerular filtration rate/1.73 sq M.predicted | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:95,observation-codes.laboratory.ehr2edc,http://loinc.org,50210-4,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Cystatin-based formula",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:95,observation-codes.laboratory.ehr2edc,http://loinc.org,50384-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (Schwartz)",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:95,observation-codes.laboratory.ehr2edc,http://loinc.org,62238-1,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:95,observation-codes.laboratory.ehr2edc,http://loinc.org,69405-9,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:95,observation-codes.laboratory.ehr2edc,http://loinc.org,77147-7,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:96,observation-codes.laboratory.ehr2edc,,,Cholesterol in LDL | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:96,observation-codes.laboratory.ehr2edc,http://loinc.org,2089-1,Cholesterol in LDL [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:96,observation-codes.laboratory.ehr2edc,http://loinc.org,22748-8,Cholesterol in LDL [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:96,observation-codes.laboratory.ehr2edc,http://loinc.org,35198-1,Cholesterol in LDL [Mass or Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:97,observation-codes.laboratory.ehr2edc,,,C peptide | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:97,observation-codes.laboratory.ehr2edc,http://loinc.org,13037-7,C peptide [Mass/volume] in Serum or Plasma --fasting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:97,observation-codes.laboratory.ehr2edc,http://loinc.org,42180-0,C peptide [Moles/volume] in Serum or Plasma --fasting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:98,observation-codes.laboratory.ehr2edc,,,Ethanol | Saliva | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:98,observation-codes.laboratory.ehr2edc,http://loinc.org,50343-3,Ethanol [Presence] in Saliva (oral fluid) by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:99,observation-codes.laboratory.ehr2edc,,,Glucose | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:99,observation-codes.laboratory.ehr2edc,http://loinc.org,2349-9,Glucose [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:99,observation-codes.laboratory.ehr2edc,http://loinc.org,25428-4,Glucose [Presence] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:99,observation-codes.laboratory.ehr2edc,http://loinc.org,50555-2,Glucose [Presence] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:100,observation-codes.laboratory.ehr2edc,,,Ketones | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:100,observation-codes.laboratory.ehr2edc,http://loinc.org,2514-8,Ketones [Presence] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:100,observation-codes.laboratory.ehr2edc,http://loinc.org,33903-6,Ketones [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:100,observation-codes.laboratory.ehr2edc,http://loinc.org,57734-6,Ketones [Presence] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:101,observation-codes.laboratory.ehr2edc,,,Erythrocytes | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:101,observation-codes.laboratory.ehr2edc,http://loinc.org,33051-4,Erythrocytes [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:101,observation-codes.laboratory.ehr2edc,http://loinc.org,53292-9,Erythrocytes [Presence] in Urine by Automated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:102,observation-codes.laboratory.ehr2edc,,,Leukocytes | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:102,observation-codes.laboratory.ehr2edc,http://loinc.org,33052-2,Leukocytes [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:102,observation-codes.laboratory.ehr2edc,http://loinc.org,53316-6,Leukocytes [Presence] in Urine by Automated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:102,observation-codes.laboratory.ehr2edc,http://loinc.org,53964-3,Leukocytes [Presence] in Urine by Visual,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:103,observation-codes.laboratory.ehr2edc,,,Bacteria | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:103,observation-codes.laboratory.ehr2edc,http://loinc.org,50221-1,Bacteria [Presence] in Urine by Automated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:103,observation-codes.laboratory.ehr2edc,http://loinc.org,87829-8,Bacteria [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:104,observation-codes.laboratory.ehr2edc,,,Hemoglobin | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:104,observation-codes.laboratory.ehr2edc,http://loinc.org,725-2,Hemoglobin [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:104,observation-codes.laboratory.ehr2edc,http://loinc.org,5794-3,Hemoglobin [Presence] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:104,observation-codes.laboratory.ehr2edc,http://loinc.org,57751-0,Hemoglobin [Presence] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:106,observation-codes.laboratory.ehr2edc,,,Protein | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:106,observation-codes.laboratory.ehr2edc,http://loinc.org,2887-8,Protein [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:106,observation-codes.laboratory.ehr2edc,http://loinc.org,20454-5,Protein [Presence] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:106,observation-codes.laboratory.ehr2edc,http://loinc.org,57735-3,Protein [Presence] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:107,observation-codes.laboratory.ehr2edc,,,Crystals | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:107,observation-codes.laboratory.ehr2edc,http://loinc.org,53319-0,Crystals [Presence] in Urine by Automated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:107,observation-codes.laboratory.ehr2edc,http://loinc.org,87828-0,Crystals [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:108,observation-codes.laboratory.ehr2edc,,,Casts | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:108,observation-codes.laboratory.ehr2edc,http://loinc.org,53320-8,Casts [Presence] in Urine by Automated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:108,observation-codes.laboratory.ehr2edc,http://loinc.org,87827-2,Casts [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:109,observation-codes.laboratory.ehr2edc,,,Neisseria gonorrhoeae rRNA | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:109,observation-codes.laboratory.ehr2edc,http://loinc.org,60256-5,Neisseria gonorrhoeae rRNA [Presence] in Urine by NAA with probe detection,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:109,observation-codes.laboratory.ehr2edc,http://loinc.org,21416-3,Neisseria gonorrhoeae DNA [Presence] in Urine by NAA with probe detection,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,,,Glucose | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,2350-7,Glucose [Mass/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,5792-7,Glucose [Mass/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,15076-3,Glucose [Moles/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,22705-8,Glucose [Moles/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,53328-1,Glucose [Mass/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,35212-0,Glucose [Mass or Moles/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:110,observation-codes.laboratory.ehr2edc,http://loinc.org,59156-0,Glucose [Moles/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,,,Bilirubin.total | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,http://loinc.org,1978-6,Bilirubin.total [Mass/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,http://loinc.org,20505-4,Bilirubin.total [Mass/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,http://loinc.org,41016-7,Bilirubin.total [Moles/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,http://loinc.org,53327-3,Bilirubin.total [Mass/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,http://loinc.org,68367-2,Bilirubin.total [Moles/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:111,observation-codes.laboratory.ehr2edc,http://loinc.org,70199-5,Bilirubin.total [Moles/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:112,observation-codes.laboratory.ehr2edc,,,pH | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:112,observation-codes.laboratory.ehr2edc,http://loinc.org,2756-5,pH of Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:112,observation-codes.laboratory.ehr2edc,http://loinc.org,5803-2,pH of Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:112,observation-codes.laboratory.ehr2edc,http://loinc.org,50560-2,pH of Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:113,observation-codes.laboratory.ehr2edc,,,Erythrocytes | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:113,observation-codes.laboratory.ehr2edc,http://loinc.org,798-9,Erythrocytes [#/volume] in Urine by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:113,observation-codes.laboratory.ehr2edc,http://loinc.org,799-7,Erythrocytes [#/volume] in Urine by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:113,observation-codes.laboratory.ehr2edc,http://loinc.org,20409-9,Erythrocytes [#/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:113,observation-codes.laboratory.ehr2edc,http://loinc.org,30391-7,Erythrocytes [#/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:113,observation-codes.laboratory.ehr2edc,http://loinc.org,57747-8,Erythrocytes [#/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:114,observation-codes.laboratory.ehr2edc,,,Leukocytes | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:114,observation-codes.laboratory.ehr2edc,http://loinc.org,30405-5,Leukocytes [#/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:114,observation-codes.laboratory.ehr2edc,http://loinc.org,20408-1,Leukocytes [#/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:114,observation-codes.laboratory.ehr2edc,http://loinc.org,58805-3,Leukocytes [#/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:114,observation-codes.laboratory.ehr2edc,http://loinc.org,51487-7,Leukocytes [#/volume] in Urine by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:114,observation-codes.laboratory.ehr2edc,http://loinc.org,24122-4,Leukocytes [#/volume] in Urine by Manual count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:115,observation-codes.laboratory.ehr2edc,,,Bacteria | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:115,observation-codes.laboratory.ehr2edc,http://loinc.org,51480-2,Bacteria [#/volume] in Urine by Automated count,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:116,observation-codes.laboratory.ehr2edc,,,Nitrite | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:116,observation-codes.laboratory.ehr2edc,http://loinc.org,2657-5,Nitrite [Mass/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:116,observation-codes.laboratory.ehr2edc,http://loinc.org,20407-3,Nitrite [Mass/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,,,Urobilinogen | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,3107-0,Urobilinogen [Mass/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,19161-9,Urobilinogen [Units/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,20405-7,Urobilinogen [Mass/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,32727-0,Urobilinogen [Units/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,34927-4,Urobilinogen [Moles/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,34928-2,Urobilinogen [Moles/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,50563-6,Urobilinogen [Mass/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,35236-9,Urobilinogen [Mass or Moles/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:117,observation-codes.laboratory.ehr2edc,http://loinc.org,60025-4,Urobilinogen [Moles/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:118,observation-codes.laboratory.ehr2edc,,,Specific gravity of Urine | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:118,observation-codes.laboratory.ehr2edc,http://loinc.org,2965-2,Specific gravity of Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:118,observation-codes.laboratory.ehr2edc,http://loinc.org,5810-7,Specific gravity of Urine by Refractometry,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:118,observation-codes.laboratory.ehr2edc,http://loinc.org,5811-5,Specific gravity of Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:118,observation-codes.laboratory.ehr2edc,http://loinc.org,50562-8,Specific gravity of Urine by Refractometry automated,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:118,observation-codes.laboratory.ehr2edc,http://loinc.org,53326-5,Specific gravity of Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:119,observation-codes.laboratory.ehr2edc,,,Choriogonadotropin.beta subunit | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:119,observation-codes.laboratory.ehr2edc,http://loinc.org,2112-1,Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:120,observation-codes.laboratory.ehr2edc,,,Ketones | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:120,observation-codes.laboratory.ehr2edc,http://loinc.org,5797-6,Ketones [Mass/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:120,observation-codes.laboratory.ehr2edc,http://loinc.org,22702-5,Ketones [Moles/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:120,observation-codes.laboratory.ehr2edc,http://loinc.org,49779-2,Ketones [Mass/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:120,observation-codes.laboratory.ehr2edc,http://loinc.org,50557-8,Ketones [Mass/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:120,observation-codes.laboratory.ehr2edc,http://loinc.org,59158-6,Ketones [Moles/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:121,observation-codes.laboratory.ehr2edc,,,Leukocyte esterase | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:121,observation-codes.laboratory.ehr2edc,http://loinc.org,27297-1,Leukocyte esterase [Units/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:122,observation-codes.laboratory.ehr2edc,,,Protein | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:122,observation-codes.laboratory.ehr2edc,http://loinc.org,2888-6,Protein [Mass/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:122,observation-codes.laboratory.ehr2edc,http://loinc.org,5804-0,Protein [Mass/volume] in Urine by Test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:122,observation-codes.laboratory.ehr2edc,http://loinc.org,27298-9,Protein [Units/volume] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:122,observation-codes.laboratory.ehr2edc,http://loinc.org,50561-0,Protein [Mass/volume] in Urine by Automated test strip,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:123,observation-codes.laboratory.ehr2edc,,,Ethanol | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:123,observation-codes.laboratory.ehr2edc,http://loinc.org,5644-0,Ethanol [Presence] in Urine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:123,observation-codes.laboratory.ehr2edc,http://loinc.org,34180-0,Ethanol [Presence] in Urine by Confirmatory method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:123,observation-codes.laboratory.ehr2edc,http://loinc.org,42242-8,Ethanol [Presence] in Urine by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:124,observation-codes.laboratory.ehr2edc,,,Epithelial casts | Urine | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:124,observation-codes.laboratory.ehr2edc,http://loinc.org,53287-9,Epithelial casts [#/volume] in Urine by Computer assisted method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:124,observation-codes.laboratory.ehr2edc,http://loinc.org,53291-1,Epithelial casts [#/area] in Urine by Computer assisted method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:125,observation-codes.laboratory.ehr2edc,,,Trichomonas sp | Urine | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:125,observation-codes.laboratory.ehr2edc,http://loinc.org,50237-7,Trichomonas sp [Presence] in Urine by Computer assisted method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:125,observation-codes.laboratory.ehr2edc,http://loinc.org,32724-7,Trichomonas sp [Presence] in Urine by Light microscopy,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:126,observation-codes.laboratory.ehr2edc,,,Amylase | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:126,observation-codes.laboratory.ehr2edc,http://loinc.org,1798-8,Amylase [Enzymatic activity/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:126,observation-codes.laboratory.ehr2edc,http://loinc.org,77146-9,"Amylase [Enzymatic activity/volume] in Serum, Plasma or Blood",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:126,observation-codes.laboratory.ehr2edc,http://loinc.org,76630-3,Amylase [Enzymatic activity/volume] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:127,observation-codes.laboratory.ehr2edc,,,Choriogonadotropin.beta subunit | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:127,observation-codes.laboratory.ehr2edc,http://loinc.org,2110-5,Choriogonadotropin.beta subunit (pregnancy test) [Presence] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:128,observation-codes.laboratory.ehr2edc,,,Ethanol | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:128,observation-codes.laboratory.ehr2edc,http://loinc.org,5639-0,Ethanol [Presence] in Blood,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:128,observation-codes.laboratory.ehr2edc,http://loinc.org,5642-4,Ethanol [Presence] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:128,observation-codes.laboratory.ehr2edc,http://loinc.org,20470-1,Ethanol [Presence] in Serum or Plasma by Screen method,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,,,Insulin | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,http://loinc.org,3695-4,Insulin [Mass/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,http://loinc.org,14796-7,Insulin [Moles/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,http://loinc.org,20448-7,Insulin [Units/volume] in Serum or Plasma,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,http://loinc.org,27873-9,Insulin [Units/volume] in Serum or Plasma --fasting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,http://loinc.org,47862-8,Insulin [Units/volume] in Serum or Plasma --post meal,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:129,observation-codes.laboratory.ehr2edc,http://loinc.org,59179-2,Insulin [Moles/volume] in Serum or Plasma --fasting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:130,observation-codes.laboratory.ehr2edc,,,aPTT | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:130,observation-codes.laboratory.ehr2edc,http://loinc.org,3173-2,aPTT in Blood by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:130,observation-codes.laboratory.ehr2edc,http://loinc.org,14979-9,aPTT in Platelet poor plasma by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:131,observation-codes.laboratory.ehr2edc,,,INR | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:131,observation-codes.laboratory.ehr2edc,http://loinc.org,6301-6,INR in Platelet poor plasma by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:131,observation-codes.laboratory.ehr2edc,http://loinc.org,34714-6,INR in Blood by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:131,observation-codes.laboratory.ehr2edc,http://loinc.org,38875-1,INR in Platelet poor plasma or blood by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:131,observation-codes.laboratory.ehr2edc,http://loinc.org,46418-0,INR in Capillary blood by Coagulation assay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:131,observation-codes.laboratory.ehr2edc,http://loinc.org,52129-4,INR in Platelet poor plasma by Coagulation assay --post heparin adsorption,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:132,observation-codes.laboratory.ehr2edc,,,Thrombin time | Blood | Quantity,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:132,observation-codes.laboratory.ehr2edc,http://loinc.org,3243-3,Thrombin time,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:133,observation-codes.laboratory.ehr2edc,,,Hepatitis B virus surface Ab | Blood | Qualitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:133,observation-codes.laboratory.ehr2edc,http://loinc.org,10900-9,Hepatitis B virus surface Ab [Presence] in Serum by Immunoassay,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:133,observation-codes.laboratory.ehr2edc,http://loinc.org,22322-2,Hepatitis B virus surface Ab [Presence] in Serum,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:133,observation-codes.laboratory.ehr2edc,http://loinc.org,39535-0,Hepatitis B virus surface Ab [Presence] in Serum by Radioimmunoassay (RIA),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.laboratory.ehr2edc.core:133,observation-codes.laboratory.ehr2edc,http://loinc.org,75409-3,"Hepatitis B virus surface Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE

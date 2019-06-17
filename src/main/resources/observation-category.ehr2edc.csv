@@ -1,0 +1,4 @@
+id,root,cs,code,label,version,spaces ,text|,|text,text|text,xx  | OR |  xx
+observation-category.ehr2edc,,,,EHR2EDC VS Observation Category,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-category.ehr2edc,,http://terminology.hl7.org/CodeSystem/observation-category,laboratory,Laboratory,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-category.ehr2edc,,http://terminology.hl7.org/CodeSystem/observation-category,vital-signs,Vital Signs,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE

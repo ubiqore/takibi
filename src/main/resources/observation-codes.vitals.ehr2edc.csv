@@ -1,0 +1,94 @@
+id,root,cs,code,label,version,spaces ,text|,|text,text|text,xx  | OR |  xx
+observation-codes.vitals.ehr2edc,,,,EHR2EDC Vital Signs Observation Codes,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:1,observation-codes.vitals.ehr2edc,,,Body mass index | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:1,observation-codes.vitals.ehr2edc,http://loinc.org,39156-5,Body mass index (BMI) [Ratio],2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:1,observation-codes.vitals.ehr2edc,http://snomed.info/sct,60621009,Body mass index (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:2,observation-codes.vitals.ehr2edc,,,Surface area | Body | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:2,observation-codes.vitals.ehr2edc,http://loinc.org,8277-6,Body surface area,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:2,observation-codes.vitals.ehr2edc,http://snomed.info/sct,301898006,Body surface area (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,,,Blood pressure | Diastolic phase @ Cardiac Process | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8462-4,Diastolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8496-2,Brachial artery Diastolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8514-2,Brachial artery - left Diastolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8515-9,Brachial artery - right Diastolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8453-3,Diastolic blood pressure--sitting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8454-1,Diastolic blood pressure--standing,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://loinc.org,8455-8,Diastolic blood pressure--supine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://snomed.info/sct,271650006,Diastolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://snomed.info/sct,407555005,Sitting diastolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://snomed.info/sct,400975005,Standing diastolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:3,observation-codes.vitals.ehr2edc,http://snomed.info/sct,407557002,Lying diastolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:5,observation-codes.vitals.ehr2edc,,,Circumference | Head | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:5,observation-codes.vitals.ehr2edc,http://loinc.org,8287-5,Head Occipital-frontal circumference by Tape measure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:5,observation-codes.vitals.ehr2edc,http://snomed.info/sct,363812007,Head circumference (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:6,observation-codes.vitals.ehr2edc,,,Height | Body | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:6,observation-codes.vitals.ehr2edc,http://loinc.org,8302-2,Body height,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:6,observation-codes.vitals.ehr2edc,http://loinc.org,8306-3,Body height --lying,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:6,observation-codes.vitals.ehr2edc,http://snomed.info/sct,248333004,Standing height (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:6,observation-codes.vitals.ehr2edc,http://snomed.info/sct,248334005,Length of body (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:6,observation-codes.vitals.ehr2edc,http://snomed.info/sct,50373000,Body height measure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:7,observation-codes.vitals.ehr2edc,,,Circumference | Hip | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:7,observation-codes.vitals.ehr2edc,http://loinc.org,56063-1,Circumference.at maximal protrusion of gluteus muscles Pelvis,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:7,observation-codes.vitals.ehr2edc,http://snomed.info/sct,284472007,Hip circumference (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,,,Heart Rate | Cardiac Process | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,http://loinc.org,8867-4,Heart rate,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,http://snomed.info/sct,364075005,Heart rate (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,http://snomed.info/sct,78564009,Heart rate measured at systemic artery (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,http://snomed.info/sct,422119006,Heart rate measured at brachial artery (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,http://snomed.info/sct,429525003,Heart rate measured at dorsalis pedis artery (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:8,observation-codes.vitals.ehr2edc,http://snomed.info/sct,429614003,Heart rate measured at posterior tibial artery (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,,,Blood pressure (Mean) | Cardiac Process | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8478-0,Mean blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8502-7,Brachial artery Mean blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8530-8,Brachial artery - left Mean blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8531-6,Brachial artery - right Mean blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8456-6,Mean blood pressure--sitting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8457-4,Mean blood pressure--standing,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://loinc.org,8458-2,Mean blood pressure--supine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:9,observation-codes.vitals.ehr2edc,http://snomed.info/sct,6797001,Mean blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:10,observation-codes.vitals.ehr2edc,,,Oxygen saturation | Blood | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:10,observation-codes.vitals.ehr2edc,http://loinc.org,59408-5,Oxygen saturation in Arterial blood by Pulse oximetry,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:10,observation-codes.vitals.ehr2edc,http://snomed.info/sct,103228002,Hemoglobin saturation with oxygen (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:10,observation-codes.vitals.ehr2edc,http://snomed.info/sct,442440005,Capillary oxygen saturation (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,,,Heart Rate | Cardiac Process  | Quantitative,2019-06-03,TRUE,FALSE,FALSE,FALSE,TRUE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://loinc.org,8893-0,Heart rate Peripheral artery by palpation,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://loinc.org,69000-8,Heart rate --sitting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://loinc.org,69001-6,Heart rate --standing,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://loinc.org,68999-2,Heart rate --supine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://snomed.info/sct,70124003,Capillary pulse (finding),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://snomed.info/sct,366199006,Pulse finding (finding),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:11,observation-codes.vitals.ehr2edc,http://snomed.info/sct,8499008,"Pulse, function (observable entity)",2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:12,observation-codes.vitals.ehr2edc,,,Respiratory Rate | Breathing process | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:12,observation-codes.vitals.ehr2edc,http://loinc.org,9279-1,Respiratory rate,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:12,observation-codes.vitals.ehr2edc,http://snomed.info/sct,86290005,Respiratory rate (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,,,Blood pressure |  Systolic phase @ Cardiac Process  | Quantitative,2019-06-03,TRUE,FALSE,FALSE,FALSE,TRUE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8480-6,Systolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8508-4,Brachial artery Systolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8546-4,Brachial artery - left Systolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8547-2,Brachial artery - right Systolic blood pressure,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8459-0,Systolic blood pressure--sitting,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8460-8,Systolic blood pressure--standing,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://loinc.org,8461-6,Systolic blood pressure--supine,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://snomed.info/sct,271649006,Systolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://snomed.info/sct,407554009,Sitting systolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://snomed.info/sct,400974009,Standing systolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:13,observation-codes.vitals.ehr2edc,http://snomed.info/sct,407556006,Lying systolic blood pressure (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,,,Temperature | * | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://loinc.org,8310-5,Body temperature,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://loinc.org,8332-9,Rectal temperature,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://loinc.org,76011-6,Ear temperature,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://loinc.org,8333-7,Tympanic membrane temperature,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://loinc.org,8328-7,Axillary temperature,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://snomed.info/sct,386725007,Body temperature (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://snomed.info/sct,307047009,Core body temperature measured in rectum (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://snomed.info/sct,415945006,Core body temperature measured in sublingual space (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://snomed.info/sct,415974002,Core body temperature measured at tympanic membrane (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:14,observation-codes.vitals.ehr2edc,http://snomed.info/sct,415882003,Core body temperature measured in axillary region (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:15,observation-codes.vitals.ehr2edc,,,Weight | Body | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:15,observation-codes.vitals.ehr2edc,http://loinc.org,29463-7,Body weight,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:15,observation-codes.vitals.ehr2edc,http://snomed.info/sct,27113001,Body weight (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:16,observation-codes.vitals.ehr2edc,,,Circumference | Waist | Quantitative,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:16,observation-codes.vitals.ehr2edc,http://loinc.org,56115-9,Waist Circumference by NCFS,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:16,observation-codes.vitals.ehr2edc,http://loinc.org,56114-2,Waist Circumference by NHANES,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:16,observation-codes.vitals.ehr2edc,http://loinc.org,56117-5,Waist Circumference by WHI,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+observation-codes.vitals.ehr2edc.core:16,observation-codes.vitals.ehr2edc,http://snomed.info/sct,276361009,Waist circumference (observable entity),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,81 @@
+vs.id,vs.root,codingsystem,code,label (code | vs),version
+aphp.vitsig,,,,APHP VS Vital Signs,12022019
+aphp.vitsig:1,aphp.vitsig,,,BMI,12022019
+aphp.vitsig:1,aphp.vitsig,http://loinc.org,39156-5,Body mass index (BMI) [Ratio],12022019
+aphp.vitsig:1,aphp.vitsig,http://loinc.org,39156-5,Body mass index (BMI) [Ratio],12022019
+aphp.vitsig:1,aphp.vitsig,http://snomed.info/sct,60621009,Body mass index (observable entity),12022019
+aphp.vitsig:2,aphp.vitsig,http://loinc.org,8277-6,Body surface area,12022019
+aphp.vitsig:2,aphp.vitsig,http://snomed.info/sct,301898006,Body surface area (observable entity),12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8462-4,Diastolic blood pressure,12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8496-2,Brachial artery Diastolic blood pressure,12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8514-2,Brachial artery - left Diastolic blood pressure,12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8515-9,Brachial artery - right Diastolic blood pressure,12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8453-3,Diastolic blood pressure--sitting,12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8454-1,Diastolic blood pressure--standing,12022019
+aphp.vitsig:3,aphp.vitsig,http://loinc.org,8455-8,Diastolic blood pressure--supine,12022019
+aphp.vitsig:3,aphp.vitsig,http://snomed.info/sct,271650006,Diastolic blood pressure (observable entity),12022019
+aphp.vitsig:3,aphp.vitsig,http://snomed.info/sct,407555005,Sitting diastolic blood pressure (observable entity),12022019
+aphp.vitsig:3,aphp.vitsig,http://snomed.info/sct,400975005,Standing diastolic blood pressure (observable entity),12022019
+aphp.vitsig:3,aphp.vitsig,http://snomed.info/sct,407557002,Lying diastolic blood pressure (observable entity),12022019
+aphp.vitsig:5,aphp.vitsig,http://loinc.org,8287-5,Head Occipital-frontal circumference by Tape measure,12022019
+aphp.vitsig:5,aphp.vitsig,http://snomed.info/sct,363812007,Head circumference (observable entity),12022019
+aphp.vitsig:6,aphp.vitsig,http://loinc.org,8302-2,Body height,12022019
+aphp.vitsig:6,aphp.vitsig,http://loinc.org,8306-3,Body height --lying,12022019
+aphp.vitsig:6,aphp.vitsig,http://snomed.info/sct,248333004,Standing height (observable entity),12022019
+aphp.vitsig:6,aphp.vitsig,http://snomed.info/sct,248334005,Length of body (observable entity),12022019
+aphp.vitsig:6,aphp.vitsig,http://snomed.info/sct,50373000,Body height measure (observable entity),12022019
+aphp.vitsig:7,aphp.vitsig,http://loinc.org,56063-1,Circumference.at maximal protrusion of gluteus muscles Pelvis,12022019
+aphp.vitsig:7,aphp.vitsig,http://snomed.info/sct,284472007,Hip circumference (observable entity),12022019
+aphp.vitsig:8,aphp.vitsig,http://loinc.org,8867-4,Heart rate,12022019
+aphp.vitsig:8,aphp.vitsig,http://snomed.info/sct,364075005,Heart rate (observable entity),12022019
+aphp.vitsig:8,aphp.vitsig,http://snomed.info/sct,78564009,Heart rate measured at systemic artery (observable entity),12022019
+aphp.vitsig:8,aphp.vitsig,http://snomed.info/sct,422119006,Heart rate measured at brachial artery (observable entity),12022019
+aphp.vitsig:8,aphp.vitsig,http://snomed.info/sct,429525003,Heart rate measured at dorsalis pedis artery (observable entity),12022019
+aphp.vitsig:8,aphp.vitsig,http://snomed.info/sct,429614003,Heart rate measured at posterior tibial artery (observable entity),12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8478-0,Mean blood pressure,12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8502-7,Brachial artery Mean blood pressure,12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8530-8,Brachial artery - left Mean blood pressure,12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8531-6,Brachial artery - right Mean blood pressure,12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8456-6,Mean blood pressure--sitting,12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8457-4,Mean blood pressure--standing,12022019
+aphp.vitsig:9,aphp.vitsig,http://loinc.org,8458-2,Mean blood pressure--supine,12022019
+aphp.vitsig:9,aphp.vitsig,http://snomed.info/sct,6797001,Mean blood pressure (observable entity),12022019
+aphp.vitsig:10,aphp.vitsig,http://loinc.org,59408-5,Oxygen saturation in Arterial blood by Pulse oximetry,12022019
+aphp.vitsig:10,aphp.vitsig,http://snomed.info/sct,103228002,Hemoglobin saturation with oxygen (observable entity),12022019
+aphp.vitsig:10,aphp.vitsig,http://snomed.info/sct,442440005,Capillary oxygen saturation (observable entity),12022019
+aphp.vitsig:11,aphp.vitsig,http://loinc.org,8893-0,Heart rate Peripheral artery by palpation,12022019
+aphp.vitsig:11,aphp.vitsig,http://loinc.org,69000-8,Heart rate --sitting,12022019
+aphp.vitsig:11,aphp.vitsig,http://loinc.org,69001-6,Heart rate --standing,12022019
+aphp.vitsig:11,aphp.vitsig,http://loinc.org,68999-2,Heart rate --supine,12022019
+aphp.vitsig:11,aphp.vitsig,http://snomed.info/sct,70124003,Capillary pulse (finding),12022019
+aphp.vitsig:11,aphp.vitsig,http://snomed.info/sct,366199006,Pulse finding (finding),12022019
+aphp.vitsig:11,aphp.vitsig,http://snomed.info/sct,8499008,"Pulse, function (observable entity)",12022019
+aphp.vitsig:12,aphp.vitsig,http://loinc.org,9279-1,Respiratory rate,12022019
+aphp.vitsig:12,aphp.vitsig,http://snomed.info/sct,86290005,Respiratory rate (observable entity),12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8480-6,Systolic blood pressure,12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8508-4,Brachial artery Systolic blood pressure,12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8546-4,Brachial artery - left Systolic blood pressure,12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8547-2,Brachial artery - right Systolic blood pressure,12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8459-0,Systolic blood pressure--sitting,12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8460-8,Systolic blood pressure--standing,12022019
+aphp.vitsig:13,aphp.vitsig,http://loinc.org,8461-6,Systolic blood pressure--supine,12022019
+aphp.vitsig:13,aphp.vitsig,http://snomed.info/sct,271649006,Systolic blood pressure (observable entity),12022019
+aphp.vitsig:13,aphp.vitsig,http://snomed.info/sct,407554009,Sitting systolic blood pressure (observable entity),12022019
+aphp.vitsig:13,aphp.vitsig,http://snomed.info/sct,400974009,Standing systolic blood pressure (observable entity),12022019
+aphp.vitsig:13,aphp.vitsig,http://snomed.info/sct,407556006,Lying systolic blood pressure (observable entity),12022019
+aphp.vitsig:14,aphp.vitsig,http://loinc.org,8310-5,Body temperature,12022019
+aphp.vitsig:14,aphp.vitsig,http://loinc.org,8332-9,Rectal temperature,12022019
+aphp.vitsig:14,aphp.vitsig,http://loinc.org,76011-6,Ear temperature,12022019
+aphp.vitsig:14,aphp.vitsig,http://loinc.org,8333-7,Tympanic membrane temperature,12022019
+aphp.vitsig:14,aphp.vitsig,http://loinc.org,8328-7,Axillary temperature,12022019
+aphp.vitsig:14,aphp.vitsig,http://snomed.info/sct,386725007,Body temperature (observable entity),12022019
+aphp.vitsig:14,aphp.vitsig,http://snomed.info/sct,307047009,Core body temperature measured in rectum (observable entity),12022019
+aphp.vitsig:14,aphp.vitsig,http://snomed.info/sct,415945006,Core body temperature measured in sublingual space (observable entity),12022019
+aphp.vitsig:14,aphp.vitsig,http://snomed.info/sct,415974002,Core body temperature measured at tympanic membrane (observable entity),12022019
+aphp.vitsig:14,aphp.vitsig,http://snomed.info/sct,415882003,Core body temperature measured in axillary region (observable entity),12022019
+aphp.vitsig:15,aphp.vitsig,http://loinc.org,29463-7,Body weight,12022019
+aphp.vitsig:15,aphp.vitsig,http://snomed.info/sct,27113001,Body weight (observable entity),12022019
+aphp.vitsig:16,aphp.vitsig,http://loinc.org,56115-9,Waist Circumference by NCFS,12022019
+aphp.vitsig:16,aphp.vitsig,http://loinc.org,56114-2,Waist Circumference by NHANES,12022019
+aphp.vitsig:16,aphp.vitsig,http://loinc.org,56117-5,Waist Circumference by WHI,12022019
+aphp.vitsig:16,aphp.vitsig,http://snomed.info/sct,276361009,Waist circumference (observable entity),12022019

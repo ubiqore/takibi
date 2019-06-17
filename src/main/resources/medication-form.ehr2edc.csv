@@ -1,0 +1,29 @@
+id,root,cs,code,label,version,spaces ,text|,|text,text|text,xx  | OR |  xx
+medication-form.ehr2edc,,,,EHR2EDC Medication Form,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,52262001,Drug aerosol (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385049006,Capsule (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385099005,Cream (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385100002,Gel (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,739003001,Patch (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,85581007,Drug powder (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,421720008,Spray dose form (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385194003,Suppository (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,7946007,Drug suspension (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385055001,Tablet (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385052003,Gastro-resistant oral capsule (dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385053008,Prolonged-release oral capsule (dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385286003,Implant (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385288002,Inhalation dosage form (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385218009,Injection (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,420699003,Basic dose form with liquid state of matter (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,739000003,Lotion (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,70409003,Conventional release oromucosal solution for mouthwash (dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,255698008,Shampoo (substance),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,25780000,Soap (substance),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,739006009,Solution (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,739009002,Syrup (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,421535006,Delayed-release particles tablet (qualifier value),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,421155001,Gastro-resistant and prolonged-release oral tablet (dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,739010007,Tape (basic dose form),2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,763824009,Gas (basic dose form),#REF!,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-form.ehr2edc,,http://snomed.info/sct,385101003,Ointment (basic dose form),#REF!,FALSE,FALSE,FALSE,FALSE,FALSE

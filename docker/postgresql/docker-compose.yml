@@ -1,0 +1,21 @@
+version: '3.1'
+services:
+  db:
+    image: postgres  # will be the last version  postgres:11 ? 
+    restart: always
+    ports:
+     - 5433:5432 # guest:host
+    environment:
+      POSTGRES_PASSWORD: bonfire
+      POSTGRES_USER : takibi
+      POSTGRES_DB : takibi
+    volumes :
+       - /Users/roky/data/postgresql/data:/var/lib/postgresql/data
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 9080:8080
+
+

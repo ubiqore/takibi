@@ -1,0 +1,13 @@
+id,root,cs,code,label,version,spaces ,text|,|text,text|text,xx  | OR |  xx
+medication-route.ehr2edc,,,,EHR2EDC Medication Route,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,47625008,Intravenous use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,26643006,Oral use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,37161004,Rectal use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,447694001,Respiratory tract route,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,34206005,SC use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,10547007,Auricular use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,78421000,Intramuscular use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,46713006,Nasal use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,37839007,Sublingual use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,6064005,Topical route,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE
+medication-route.ehr2edc,,http://snomed.info/sct,45890007,Transdermal use,2019-06-03,FALSE,FALSE,FALSE,FALSE,FALSE

@@ -1,0 +1,2 @@
+
+"jacky / dodo".replaceAll("/", "coucou")
